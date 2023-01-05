@@ -1,1 +1,1 @@
-## This folder contains files related to university course
+## This folder contains files related to my HPDP university course
